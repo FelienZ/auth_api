@@ -1,6 +1,8 @@
 node_modules
 coverage
 .env
+.test.env
 forum-api-webserver.pem
 package-lock.json
 config/database/test.json
+new-forum-api-webserver.pem
